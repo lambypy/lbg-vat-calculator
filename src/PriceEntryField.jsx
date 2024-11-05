@@ -1,7 +1,7 @@
 import React from 'react'
 import NumberEditorField from './NumberEditorField'
 
-Hello hello
+// Hello hello
 
 const PriceEntryField = (props) => {
     return (
