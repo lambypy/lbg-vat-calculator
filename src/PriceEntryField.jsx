@@ -1,6 +1,8 @@
 import React from 'react'
 import NumberEditorField from './NumberEditorField'
 
+// Hello hello
+
 const PriceEntryField = (props) => {
     return (
         <div className={props.customstyle}>
